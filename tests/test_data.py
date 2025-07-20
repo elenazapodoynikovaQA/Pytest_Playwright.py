@@ -1,11 +1,11 @@
 # test_data.py
 
-TEST_NAME = "Елена"
-TEST_SURNAME = "Заподойникова"
-TEST_PHONE = "89622014388"
-TEST_EMAIL = "zew281714599368@mail.ru"
-TEST_PASSWORD = "ZAP83wer%%"
-TEST_BIRTHDAY = "06/02/1983"
-TEST_COUNTRY = "Россия"
-TEST_CITY = "Москва"
-TEST_SMS = "54321"   #  для данного теста код статичен (поэтому можно тоже вынести)
+TEST_NAME = "ИМЯ"
+TEST_SURNAME = "ФАМИЛИЯ"
+TEST_PHONE = "ТВОЙ ТЕЛЕФОН"
+TEST_EMAIL = "ТВОЙ ЕМАИЛ"
+TEST_PASSWORD = "ПАРОЛЬ"
+TEST_BIRTHDAY = "ДАТА РОЖДЕНИЯ"
+TEST_COUNTRY = "СТРАНА"
+TEST_CITY = "ГОРОД"
+TEST_SMS = "КОД"   #  для данного теста код статичен (поэтому можно тоже вынести)
