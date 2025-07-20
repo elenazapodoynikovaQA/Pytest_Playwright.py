@@ -1,5 +1,7 @@
 # Pytest_Playwright.py
 Автотесты на фронт (Python, Pytest и Playwright)
+<img width="2727" height="1504" alt="4 теста (plawrite pytest)" src="https://github.com/user-attachments/assets/1e3451ca-8426-4211-af84-fd582d81b158" />
+
 # Автотесты регистрации и авторизации на PULS (Playwright + Pytest)
 
 ## Описание
